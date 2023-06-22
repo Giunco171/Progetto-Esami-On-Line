@@ -1,0 +1,84 @@
+{
+  "prenotazioni_": [
+    {
+      "appello_": {
+        "nomeCorso_": "Fondamenti",
+        "dataInMillis_": {
+          "seconds_": 1688198400,
+          "nanos_": 0,
+          "memoizedIsInitialized": 1,
+          "unknownFields": {
+            "fields": {}
+          },
+          "memoizedSize": 6,
+          "memoizedHashCode": 0
+        },
+        "memoizedIsInitialized": 1,
+        "unknownFields": {
+          "fields": {}
+        },
+        "memoizedSize": 20,
+        "memoizedHashCode": 237449382
+      },
+      "studente_": {
+        "matricola_": 220183,
+        "codiceFiscale_": "pscgnn01m06c352p",
+        "memoizedIsInitialized": -1,
+        "unknownFields": {
+          "fields": {}
+        },
+        "memoizedSize": -1,
+        "memoizedHashCode": 0
+      },
+      "memoizedIsInitialized": 1,
+      "unknownFields": {
+        "fields": {}
+      },
+      "memoizedSize": -1,
+      "memoizedHashCode": 0
+    },
+    {
+      "appello_": {
+        "nomeCorso_": "Fondamenti",
+        "dataInMillis_": {
+          "seconds_": 1688198400,
+          "nanos_": 0,
+          "memoizedIsInitialized": 1,
+          "unknownFields": {
+            "fields": {}
+          },
+          "memoizedSize": 6,
+          "memoizedHashCode": 0
+        },
+        "memoizedIsInitialized": 1,
+        "unknownFields": {
+          "fields": {}
+        },
+        "memoizedSize": 20,
+        "memoizedHashCode": 237449382
+      },
+      "studente_": {
+        "matricola_": 123456,
+        "codiceFiscale_": "studenteProva",
+        "memoizedIsInitialized": -1,
+        "unknownFields": {
+          "fields": {}
+        },
+        "memoizedSize": -1,
+        "memoizedHashCode": 0
+      },
+      "memoizedIsInitialized": 1,
+      "unknownFields": {
+        "fields": {}
+      },
+      "memoizedSize": -1,
+      "memoizedHashCode": 0
+    }
+  ],
+  "memoizedIsInitialized": 1,
+  "unknownFields": {
+    "fields": {}
+  },
+  "memoizedSize": -1,
+  "memoizedHashCode": 0
+}

@@ -1,0 +1,33 @@
+{
+  "risposte_": [{
+    "testoDomanda_": "Quanto fa 2+2?",
+    "risposta_": "4"},
+    {
+      "testoDomanda_": "Quanto fa 2*2?",
+      "risposta_": "4"},
+    {
+      "testoDomanda_": "Quanto fa 2^2?",
+      "risposta_": "4"},
+    {
+      "testoDomanda_": "Quanto fa 2+0?",
+      "risposta_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 2+3?",
+      "risposta_":"5"},
+    {
+      "testoDomanda_": "Quanto fa 4-2?",
+      "risposta_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 5+0?",
+      "risposta_":"5"},
+    {
+      "testoDomanda_": "Quanto fa 22-20?",
+      "risposta_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 55-50?",
+      "risposta_":"5"},
+    {
+      "testoDomanda_": "Quanto fa log_2(4)?",
+      "risposta_":"2"}
+  ]
+}

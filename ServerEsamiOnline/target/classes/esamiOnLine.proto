@@ -1,0 +1,73 @@
+syntax = "proto3"; /* default is proto2 */
+option java_package = "proto";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/wrappers.proto";
+
+
+message Appello{
+  string nomeCorso=1;
+  google.protobuf.Timestamp dataInMillis=2;
+}
+
+message Appelli{
+  repeated Appello appelli=1;
+}
+
+message Studente{
+  int32 matricola=1;
+  string codiceFiscale=2;
+}
+
+message Empty {}
+
+message Prenotazione{
+  Appello appello=1;
+  Studente studente=2;
+}
+
+message Prenotazioni{
+  repeated Prenotazione prenotazioni=1;
+}
+
+message Esito{
+  google.protobuf.BoolValue esito = 1;
+}
+
+message Domanda{
+  string testoDomanda=1;
+  string risposta1=2;
+  string risposta2=3;
+  string risposta3=4;
+}
+
+message Domande{
+  repeated Domanda domande=1;
+}
+
+message Risposta{
+  string testoDomanda=1;
+  string risposta=2;
+}
+
+message Risposte{
+  repeated Risposta risposte=1;
+}
+
+message Sottomissione{
+  Risposte risposte=1;
+  Appello appello=2;
+  Studente studente=3;
+}
+
+message Modulo{
+  Risposte risposteEsatte=1;
+  int32 punteggio=2;
+}
+
+service GestioneEsamiOnLine{
+  rpc getAppelli (Empty) returns (Appelli) {}
+  rpc setPrenotazione (Prenotazione) returns (Esito){}
+  rpc getDomande (Prenotazione) returns (Domande) {}
+  rpc setRisposte (Sottomissione) returns (Modulo){}
+}

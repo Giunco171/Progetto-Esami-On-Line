@@ -1,0 +1,53 @@
+{
+  "domande_": [{
+    "testoDomanda_": "Quanto fa 2+2?",
+    "risposta1_":"4",
+    "risposta2_":"5",
+    "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 2*2?",
+      "risposta1_":"4",
+      "risposta2_":"5",
+      "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 2^2?",
+      "risposta1_":"4",
+      "risposta2_":"5",
+      "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 2+0?",
+      "risposta1_": "4",
+      "risposta2_":"5",
+      "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 2+3?",
+      "risposta1_": "4",
+      "risposta2_":"5",
+      "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 4-2?",
+      "risposta1_": "4",
+      "risposta2_":"5",
+      "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 5+0?",
+      "risposta1_": "4",
+      "risposta2_":"5",
+      "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 22-20?",
+      "risposta1_": "4",
+      "risposta2_":"5",
+      "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa 55-50?",
+      "risposta1_": "4",
+      "risposta2_":"5",
+      "risposta3_":"2"},
+    {
+      "testoDomanda_": "Quanto fa log_2(4)?",
+      "risposta1_": "4",
+      "risposta2_":"5",
+      "risposta3_":"2"}
+  ]
+}

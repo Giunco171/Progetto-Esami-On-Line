@@ -1,0 +1,12 @@
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\mediator\MediatorIF.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\service\GestioneEsamiOnLineImpl.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\TestClass.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\utility\utilityMethods.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\proto\GestioneEsamiOnLineGrpc.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\commandObserver\AggiungiAppelloCommand.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\commandObserver\StartServerCommand.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\mediator\StartAndShutdownMediator.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\commandObserver\ShutdownServerCommand.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\Main.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\mediator\AggiungiAppelloMediator.java
+C:\Users\123132\IdeaProjects\ServerEsamiOnline\src\main\java\proto\EsamiOnLine.java
